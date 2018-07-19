@@ -9,7 +9,7 @@ python3
 ## datasets
 （1）[VGG Synthetic Word Dataset](http://www.robots.ox.ac.uk/~vgg/data/text/)<br>
 （2）[合成的中文数据](https://pan.baidu.com/s/1dFda6R3)<br>
-
+（3）[uw3-english](./uw3-500.tgz)<br>
 ## make images and labels to tfrecords
     cd make_tfrecords/
     python3 data_to_tfrecord.py
